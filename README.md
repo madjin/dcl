@@ -15,8 +15,8 @@ Third party client to render live Decentraland parcels in three.js. You can hove
 ## Install
 
 ```
-$ git clone https://github.com/webaverse/cv.git
-$ cd cv
+$ git clone https://github.com/webaverse/dcl.git
+$ cd dcl
 $ npm install
 $ node index
 ```
